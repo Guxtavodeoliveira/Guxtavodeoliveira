@@ -12,6 +12,9 @@ jobs:
       - uses: Platane/snk@v3
         with:
           github_user_name: guxtavodeoliveira
+          background_color: '0D1117'
+          color: '58a6ff'
+          border_color: '30363d'
           outputs: |
             ./github-contribution-grid-snake.svg
       - name: Configure Git
