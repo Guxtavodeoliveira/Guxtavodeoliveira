@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Gustavo%20de%20Oliveira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Gustavo%20de%20Oliveira&fontSize=50&fontColor=ffffff&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00B4D8\&center=true\&vCenter=true\&width=600\&lines=Desenvolvedor+Fullstack;C%23+%7C+.NET+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL+%7C+PostgreSQL;Builder+de+ERPs+e+soluções+reais)](https://git.io/typing-svg)
 
