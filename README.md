@@ -1,7 +1,7 @@
-[README.md](https://github.com/user-attachments/files/28471756/README.md)
+```md
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Gustavo%20de%20Oliveira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Gustavo%20de%20Oliveira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;C%23+%7C+.NET+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL+%7C+PostgreSQL;Builder+de+ERPs+e+soluções+reais)](https://git.io/typing-svg)
 
@@ -25,18 +25,9 @@
 
 ## 👨‍💻 Sobre mim
 
-```typescript
-const gustavo = {
-  role:        "Fullstack Developer @ AlmahCondos",
-  location:    "Brasil 🇧🇷",
-  studying:    ["Backend com DevOps · SCTEC", "Sistemas da Informação (em breve)"],
-  focus:       ["ERP", "CRM", "APIs REST", "Cloud", "DevOps"],
-  experience:  "15+ anos em gestão, negócios e tecnologia",
-  goal:        "Construir soluções reais que impactam pessoas",
-};
-```
+Profissional com mais de 15 anos de experiência em gestão, operações e design — hoje atuando como **Desenvolvedor Fullstack**, com experiência prática em desenvolvimento de software.
 
-Profissional com mais de 15 anos de experiência em gestão, operações e design — hoje atuando como **Desenvolvedor Fullstack**, com 1 ano de prática em desenvolvimento real. Trabalho na manutenção e evolução de um dos maiores ERPs com CRM para administradoras de condomínios do Brasil, utilizando **.NET, C#, JavaScript, VB.NET e HTML/CSS**.
+Trabalho na manutenção e evolução de um dos maiores ERPs com CRM para administradoras de condomínios do Brasil, utilizando **.NET, C#, JavaScript, VB.NET e HTML/CSS**.
 
 Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em código e colaborar com times multidisciplinares. Utilizo **JIRA, Firebase Analytics, TIFLUX, Git/GitHub** e metodologias ágeis no dia a dia.
 
@@ -45,6 +36,7 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 ## 🛠️ Tech Stack
 
 ### 💻 Linguagens
+
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -56,6 +48,7 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 </p>
 
 ### ⚙️ Frameworks & Runtime
+
 <p>
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
@@ -64,6 +57,7 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 </p>
 
 ### 🗄️ Banco de Dados
+
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -71,6 +65,7 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 </p>
 
 ### ☁️ Cloud, DevOps & Ferramentas
+
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
@@ -79,8 +74,6 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=googleplay&logoColor=white" />
-  <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=appstore&logoColor=white" />
 </p>
 
 ---
@@ -105,7 +98,7 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 ## 🏢 Experiência Profissional
 
 | Período | Empresa | Papel |
-|--------|---------|-------|
+|----------|----------|----------|
 | 🟢 2025 – Atual | **AlmahCondos** | Desenvolvedor Fullstack |
 | 2023 – 2025 | Lab Prints | Gerente Geral (Sócio Operacional) |
 | 2020 – 2025 | Gustavo de Oliveira Estúdio | Designer & Consultor de Negócios |
@@ -116,28 +109,28 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 
 ## 🎓 Formação & Certificações
 
-- 📚 **Backend com DevOps** — Programa SCTEC *(em curso, 2026)*
-- 🎓 **Bacharelado em Sistemas da Informação** *(previsto após SCTEC)*
+- 📚 **Backend com DevOps** — Programa SCTEC *(em curso)*
+- 🎓 **Bacharelado em Sistemas da Informação** *(planejado)*
 - 🏆 **MBA em Economia e Gestão Empresarial** — UNINTER (2024)
-- ✅ **.NET Bootcamp** — C#, Git, GitHub, POO, AWS Cloud Fundamentals · DIO
+- ✅ **.NET Bootcamp** — DIO
 - ✅ **Python 120h** — Curso em Vídeo
 - ✅ **MySQL 40h** — Curso em Vídeo
 - ✅ **Lógica de Programação e Algoritmos 40h** — Curso em Vídeo
 - ✅ **HTML + CSS 20h** — Curso em Vídeo
-- ☁️ Participação em eventos **AWS & Cloud**
 
 ---
 
 ## 📈 Gráfico de Atividade
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Guxtavodeoliveira&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guxtavodeoliveira&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn" />
 
 **"Do zero ao código — construindo soluções que fazem sentido."**
 
 </div>
+```
