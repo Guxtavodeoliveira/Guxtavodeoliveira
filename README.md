@@ -1,18 +1,17 @@
-```md
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00b4d8,100:0077b6&height=200&section=header&text=Gustavo%20de%20Oliveira&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Fullstack%20Developer%20%7C%20Backend%20%26%20DevOps&descAlignY=58&descSize=18&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Desenvolvedor+Fullstack;C%23+%7C+.NET+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL+%7C+PostgreSQL;Builder+de+ERPs+e+soluções+reais)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00B4D8\&center=true\&vCenter=true\&width=600\&lines=Desenvolvedor+Fullstack;C%23+%7C+.NET+%7C+JavaScript+%7C+TypeScript;Node.js+%7C+Express+%7C+SQL+%7C+PostgreSQL;Builder+de+ERPs+e+soluções+reais)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gustavo-de-oliveira-71b93b196" target="_blank">
+  <a href="https://www.linkedin.com/in/gustavo-de-oliveira-71b93b196">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:guxtavodeoliveira@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/Guxtavodeoliveira" target="_blank">
+  <a href="https://github.com/Guxtavodeoliveira">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -25,7 +24,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Profissional com mais de 15 anos de experiência em gestão, operações e design — hoje atuando como **Desenvolvedor Fullstack**, com experiência prática em desenvolvimento de software.
+Profissional com mais de 15 anos de experiência em gestão, operações e design, atualmente atuando como **Desenvolvedor Fullstack**.
 
 Trabalho na manutenção e evolução de um dos maiores ERPs com CRM para administradoras de condomínios do Brasil, utilizando **.NET, C#, JavaScript, VB.NET e HTML/CSS**.
 
@@ -82,55 +81,51 @@ Tenho forte capacidade de entender problemas de negócio, traduzir requisitos em
 
 <div align="center">
 
-<a href="https://github.com/Guxtavodeoliveira">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guxtavodeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0d1117&title_color=00b4d8&icon_color=00b4d8&text_color=c9d1d9" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtavodeoliveira&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00b4d8&text_color=c9d1d9&border_radius=10" />
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Guxtavodeoliveira&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guxtavodeoliveira&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Guxtavodeoliveira&theme=tokyonight&hide_border=true&background=0d1117&ring=00b4d8&fire=00b4d8&currStreakLabel=00b4d8" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Guxtavodeoliveira&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
 
 ## 🏢 Experiência Profissional
 
-| Período | Empresa | Papel |
-|----------|----------|----------|
-| 🟢 2025 – Atual | **AlmahCondos** | Desenvolvedor Fullstack |
-| 2023 – 2025 | Lab Prints | Gerente Geral (Sócio Operacional) |
-| 2020 – 2025 | Gustavo de Oliveira Estúdio | Designer & Consultor de Negócios |
-| 2018 – 2020 | Thumb Illustration | Designer Têxtil |
-| 2011 – 2017 | Speedpress Gráfica Rápida | Designer · Comercial · Gestão |
+| Período      | Empresa                     | Cargo                         |
+| ------------ | --------------------------- | ----------------------------- |
+| 2025 – Atual | AlmahCondos                 | Desenvolvedor Fullstack       |
+| 2023 – 2025  | Lab Prints                  | Gerente Geral                 |
+| 2020 – 2025  | Gustavo de Oliveira Estúdio | Designer & Consultor          |
+| 2018 – 2020  | Thumb Illustration          | Designer Têxtil               |
+| 2011 – 2017  | Speedpress Gráfica Rápida   | Designer · Comercial · Gestão |
 
 ---
 
 ## 🎓 Formação & Certificações
 
-- 📚 **Backend com DevOps** — Programa SCTEC *(em curso)*
-- 🎓 **Bacharelado em Sistemas da Informação** *(planejado)*
-- 🏆 **MBA em Economia e Gestão Empresarial** — UNINTER (2024)
-- ✅ **.NET Bootcamp** — DIO
-- ✅ **Python 120h** — Curso em Vídeo
-- ✅ **MySQL 40h** — Curso em Vídeo
-- ✅ **Lógica de Programação e Algoritmos 40h** — Curso em Vídeo
-- ✅ **HTML + CSS 20h** — Curso em Vídeo
+* Backend com DevOps — SCTEC
+* MBA em Economia e Gestão Empresarial — UNINTER
+* .NET Bootcamp — DIO
+* Python — Curso em Vídeo
+* MySQL — Curso em Vídeo
+* HTML & CSS — Curso em Vídeo
 
 ---
 
 ## 📈 Gráfico de Atividade
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guxtavodeoliveira&bg_color=0d1117&color=00b4d8&line=0077b6&point=00b4d8&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Guxtavodeoliveira\&bg_color=0d1117\&color=00b4d8\&line=0077b6\&point=00b4d8\&area=true\&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,50:00b4d8,100:0d1117&height=120&section=footer" />
 
-**"Do zero ao código — construindo soluções que fazem sentido."**
+**Do zero ao código — construindo soluções que fazem sentido.**
 
 </div>
-```
